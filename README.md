@@ -4,7 +4,7 @@ Hi 👋 My name is Asile
 Web developer || AI
 -------------------
 
-My journey began with building web applications, including a portfolio site using Node.js Express and MySQL. As a student in Power Learn Project Africa, I’m developing skills in software engineering, web technologies, and database management while leading my group. Currently, I'm expanding into AI, focusing on Python and Generative AI. My goal is to become an AI Engineer, bridging my aerospace background with AI-driven solutions.
+My journey began with building web applications, including a portfolio site using Node.js Express and MySQL. As a student in Power Learn Project Africa, I’m developing skills in software engineering, web technologies, and database management. Currently, I'm expanding into AI, focusing on Python and AI. My goal is to become an AI Engineer, bridging my aerospace background with AI-driven solutions.
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [My Portfolio](http://asile-portfolio.vercel.app/)
