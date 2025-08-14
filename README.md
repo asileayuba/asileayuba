@@ -12,7 +12,7 @@ I work extensively with Django for web applications, leveraging MySQL and Postgr
 *   🖥️  See my portfolio at [My Portfolio](http://asile-portfolio.vercel.app/)
 *   ✉️  You can contact me at [asileayuba@gmail.com](mailto:asileayuba@gmail.com)
 *   🤝  I'm open to collaborating on Python Project || Javascript Project
-*   ⚡  I am currently a Final Year Aerospace Engineering Student || I love football (Chelsea Football Club) || Always open to learning
+*   ⚡  I studied Aerospace Engineering || I love football (Chelsea Football Club) || Always open to learning
 
  ### Skills 
 <p align="left">
