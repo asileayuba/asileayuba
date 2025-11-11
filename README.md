@@ -6,10 +6,10 @@ Web developer || AI
 
 My journey into tech started with building web applications, including a portfolio site using Node.js, Express, and MySQL. Over time, I’ve expanded my stack to include Django, Python, and AI technologies, focusing on backend development, database management, and AI engineering.
 
-I work extensively with Django for web applications, leveraging MySQL and PostgreSQL for data storage, while using HTML, CSS, and JavaScript to ensure seamless frontend integration. My AI journey involves Python, NumPy, Pandas, and Scikit-learn for data analysis, as well as exploring deep learning and automation.
+I work extensively with Django for web applications, leveraging MySQL and PostgreSQL for data storage, while using React, HTML, CSS, and JavaScript to ensure seamless frontend integration. My AI journey involves Python, NumPy, Pandas, and Scikit-learn for data analysis, as well as exploring deep learning and automation.
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [My Portfolio](http://asile-portfolio.vercel.app/)
+*   🖥️  See my portfolio at [My Portfolio](http://asile.vercel.app/)
 *   ✉️  You can contact me at [asileayuba@gmail.com](mailto:asileayuba@gmail.com)
 *   🤝  I'm open to collaborating on Python Project || Javascript Project
 *   ⚡  I studied Aerospace Engineering || I love football (Chelsea Football Club) || Always open to learning
